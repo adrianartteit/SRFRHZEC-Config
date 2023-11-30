@@ -1,2 +1,6 @@
 #customgit.property=git2
 #customgit.secret=git2
+
+customgit:
+  property:git
+  secret:git

@@ -1,4 +1,4 @@
 customgit:
-  property=git
+  property:git
 customgit:
-  secret=git
+  secret:git

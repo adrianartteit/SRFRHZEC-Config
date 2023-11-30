@@ -1,2 +1,5 @@
-customgit.property=git
-customgit.secret.prop=git
+customgit
+  property=git
+customgit
+  secret
+    prop=git
